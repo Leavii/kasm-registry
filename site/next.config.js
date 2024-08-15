@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'Leavii\'s Kasm Registry',
     description: 'Leavii\'s Kasm Workspaces.',
-    icon: '/img/logo.svg',
+    icon: 'https://avatars.githubusercontent.com/u/47951865?v=4',
     listUrl: 'https://leavii.github.io/kasm-registry',
     contactUrl: 'https://github.io/leavii/kasm-registry/issues',
   },
